@@ -1,2 +1,2 @@
 # Hello-World
-Actividad 03 para materia de IA
+Soy Tadeo Luna Estudiante de universidad Kino
